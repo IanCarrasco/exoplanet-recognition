@@ -99,7 +99,7 @@ soupsieve==1.9.1
 stable-baselines==2.8.0
 tensorboard==2.0.1
 tensorboardX==1.9
-tensorflow==2.0.0
+tensorflow==2.9.3
 tensorflow-estimator==2.0.1
 termcolor==1.1.0
 terminado==0.8.2
